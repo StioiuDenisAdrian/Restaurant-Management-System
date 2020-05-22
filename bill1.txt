@@ -1,0 +1,7 @@
+BILL
+Order ID: 1
+Date: Fri May 22 22:31:12 EEST 2020
+Table number: 1
+Cucumber 2.0
+Pepper 1.0
+Total cost: 3.0
